@@ -12,4 +12,3 @@ CREATE TABLE students(
 )
 
 SELECT * FROM students; 
-SELECT * FROM students; 
